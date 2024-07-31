@@ -13,7 +13,7 @@ To run this, you will need to obtain your group (workspace) id and report id, e.
 
 - a Power BI report, published to a workspace
 - a Power BI account with access to the report
-- Python notebook environment e.g. Visual Studio Code
+- Python notebook environment e.g. [Visual Studio Code](https://code.visualstudio.com/download)
 - Python packages installed (eg pip install ...)
   - pandas
   - powerbiclient
