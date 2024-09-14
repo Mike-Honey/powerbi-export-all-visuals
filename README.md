@@ -32,3 +32,9 @@ The notebook embeds a live frame containing the target report. So if you need to
 This project started from a Microsoft sample notebook - refer to that for more possibilities for automated report interactions:
 
 https://learn.microsoft.com/en-us/javascript/api/overview/powerbi/powerbi-jupyter
+
+## 🤝 Support
+
+Contributions, issues, feature requests and sponsorship are all welcome!
+
+Give a ⭐️ if you like this project!
