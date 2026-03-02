@@ -17,6 +17,7 @@ To run this, you will need to obtain your group (workspace) id and report id, e.
 - Python packages installed (eg pip install ...)
   - pandas
   - powerbiclient
+  - ipywidgets
 - VS Code Extension [Compare Folders](https://marketplace.visualstudio.com/items?itemName=moshfeu.compare-folders) (optional)
 
 ## Use cases & notes
